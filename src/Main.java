@@ -3,6 +3,7 @@ public class Main {
         int a = 10;
         int b = 11;
         System.out.println("a");
+        System.out.println("b");
         
         int c = 0;
         System.out.println("1");
