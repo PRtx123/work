@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         int a = 10;
         int b = 11;
-        System.out.println("a");
+        String email = "Test@test.ru"
         System.out.println("b");
         
         int c = 0;
