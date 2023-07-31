@@ -3,7 +3,7 @@ public class Main {
         int a = 10;
         int b = 11;
         System.out.println("a");
-        int y = 100;
+        
         int c = 0;
         System.out.println("1");
         int e = 8;
