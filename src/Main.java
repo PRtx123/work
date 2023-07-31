@@ -6,7 +6,7 @@ public class Main {
         System.out.println("b");
         
         int c = 0;
-        System.out.println("1");
+        
         int e = 8;
         int f = 7;
 
