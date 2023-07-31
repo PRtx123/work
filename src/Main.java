@@ -5,6 +5,7 @@ public class Main {
         System.out.println("a");
         System.out.println("Hello");
         System.out.println("1");
+        System.out.println("2");
         int e = 8;
         int f = 7;
 
