@@ -6,8 +6,6 @@ public class Main {
         String email = "Test@test.ru"
         int t = 11;
         
-        int c = 0;
-        
         int e = 8;
         int f = 7;
 
