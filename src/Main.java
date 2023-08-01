@@ -4,7 +4,7 @@ public class Main {
         int b = 11;
         int h = 1000;
         String email = "Test@test.ru"
-        System.out.println("b");
+        int t = 11;
         
         int c = 0;
         
