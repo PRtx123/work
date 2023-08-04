@@ -3,7 +3,7 @@ public class Main {
         int a 
         int b = 11; int c = 8;
         int h = 1000;
-        String email = "Test@test.ru"
+        String email = "Test.ru"
         int t = 11;
         
         int e = 8;
