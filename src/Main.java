@@ -6,8 +6,17 @@ public class Main {
         String email = "Test.ru"
         int t = 11;
         int b = "sajndjsandjsad"
+
         int e = 8;
         int f = 7;
+
+public void bad(){
+
+    while(true){
+        System.out.println("bad");
+
+}
+}
 
     }
 }
