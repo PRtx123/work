@@ -5,7 +5,7 @@ public class Main {
         int h = 1000;
         String email = "Test.ru"
         int t = 11;
-        
+        int b = "sajndjsandjsad"
         int e = 8;
         int f = 7;
 
