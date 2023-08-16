@@ -3,7 +3,8 @@ class Circle {
 
     public double x; 
     public double y; 
-    public double r; 
+    
+
    
     public void printCircle() {
         System.out.println("Окружность с центром ("+x+";"+y+") и радиусом "+r);
