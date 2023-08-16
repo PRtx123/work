@@ -8,6 +8,12 @@ public class Main {
         int e = 8;
         int f = 7;
 
+        public void bad(){
+            while(true){
+                System.out.println("bad");
+}
+}
+
 
     }
 }
