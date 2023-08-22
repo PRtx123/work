@@ -11,7 +11,6 @@ class Circle {
     }    
     
     public void moveCircle(double a, double b) {
-        x = x + a;
         y = y + b;
     }
     
