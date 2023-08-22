@@ -11,7 +11,8 @@ class Circle {
     }    
     
     public void moveCircle(double a, double b) {
-        y = y + b;
+        x = 2; 
+        y = x;
     }
     
     public void zoomCircle(double k) {
