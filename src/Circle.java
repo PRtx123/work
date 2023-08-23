@@ -7,7 +7,7 @@ class Circle {
 
    
     public void printCircle() {
-        System.out.println("Окружность с центром ("+x+";"+y+") и радиусом "+r);
+
     }    
     
     public void moveCircle(double a, double b) {
