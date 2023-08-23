@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int a ;
+        int a = 10;
         int b = 11; int c = 8;
         String email = "Test.ru";
         int t = 11;
