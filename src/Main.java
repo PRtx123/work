@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         
-        int b = 11;
+
         String email = "Test.ru";
         int t = 11;
         int e = 8;
