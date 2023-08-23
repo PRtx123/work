@@ -3,7 +3,10 @@ public class Main {
         
         int y = 7;
         String email = "Test.ru";
-
+        
+        System.out.println("bad");
+        System.out.println("bad");
+        System.out.println("bad");
         int e = 880;
         int f = 7;
         int x = 2;
