@@ -3,7 +3,7 @@ public class Main {
         
 
         String email = "Test.ru";
-        int t = 11;
+
         int e = 8;
         int f = 7;
         int x = 2;
