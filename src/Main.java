@@ -8,7 +8,7 @@ public class Main {
         System.out.println("bad");
         System.out.println("bad");
         int e = 880;
-        int f = 7;
+        int f = 777;
         int x = 2;
         
         public void bad(){
