@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         
-        int y = 7;
+        int y = 777;
         String email = "Test.ru";
         
         System.out.println("bad");
