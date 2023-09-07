@@ -1,18 +1,22 @@
 public class Main {
     public static void main(String[] args) {
-        int a ;
-        int b = 11; int c = 8;
+        
+        int y = 777;
         String email = "Test.ru";
-        int t = 11;
-        int e = 8;
-        int f = 7;
-
+        
+        System.out.println("bad");
+        System.out.println("bad");
+        System.out.println("bad");
+        int e = 880;
+        int f = 777;
+        int x = 2;
+        
         public void bad(){
             while(true){
                 System.out.println("bad");
 }
 }
 
-
+int x = 2;
     }
 }
