@@ -15,7 +15,7 @@ public class Main {
           System.out.println("1");
         1111
 1123
-
+123
 
     }
 }
