@@ -4,3 +4,6 @@
 [submodule "merged_status_test"]
 	path = merged_status_test
 	url = https://st.sfera.org/app/sourcecode/api/_PRO/merged_status_test.git
+[submodule "target"]
+	path = target
+	url = https://st.sfera.org/app/sourcecode/api/_PRO/merged_status_test_fork_2.git
