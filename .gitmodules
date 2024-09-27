@@ -5,3 +5,6 @@
 	path = RepoForTests
 	url = https://st.sfera.org/app/sourcecode/api/_PRO/RepoForTests.git
 
+[submodule "Test"]
+	path = Test
+	url = https://gitlab.com/test640530/Test.git
