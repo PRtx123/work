@@ -1,3 +1,6 @@
 [submodule "Scan"]
 	path = Scan
 	url = https://github.com/PRtx123/Scan.git
+[submodule "RepoForTests"]
+	path = RepoForTests
+	url = https://st.sfera.org/app/sourcecode/api/_PRO/RepoForTests.git
