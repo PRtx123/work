@@ -1,6 +1,4 @@
 [submodule "Scan"]
 	path = Scan
 	url = https://github.com/PRtx123/Scan.git
-[submodule "merged_status_test"]
-	path = merged_status_test
-	url = https://ya.ru
+
